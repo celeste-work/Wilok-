@@ -30,7 +30,3 @@
 ## 👥 Proyecto grupal
 
 Este proyecto fue realizado como parte del curso de Fundación MediaPila y fue desarrollado de manera colaborativa. 
-
-## 📜 Licencia
-
-Este proyecto está bajo la licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
